@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 The name's Si-Jia (pronounced as C-G-A but say it in one go!)
 
 <!--
 **iSupercell/isupercell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
