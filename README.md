@@ -1,4 +1,4 @@
-## Hi there 👋 The name's Si-Jia (pronounced as C-G-A but say it in one go!)
+## Hi there 👋 The name's Si-Jia (pronounced as C-G-AH but say it in one go!)
 [![twitter @sijia_m](https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/twitter-24x24.png "Twitter @sijia_m")](https://twitter.com/sijia_m)
 [![My linked in account](https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-24x24.png "LinkedIn")](https://www.linkedin.com/in/sijia-mao/)
 [![My portfolio](https://i.imgur.com/Qoh5WaT.png "Portfolio site")](https://sijiamao.dev/)
